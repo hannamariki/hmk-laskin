@@ -1,2 +1,0 @@
-# hmk-laskin-palautus
-
